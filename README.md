@@ -1,2 +1,2 @@
 # openGL-game
-its shite
+school project
